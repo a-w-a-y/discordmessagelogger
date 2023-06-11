@@ -1,2 +1,3 @@
 # discordmessagelogger
-New message logger in light of the deprecation of the old one
+New message logger in light of the deprecation of the old one \n
+THIS IS AGAINST TOS
